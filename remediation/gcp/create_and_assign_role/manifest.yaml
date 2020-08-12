@@ -1,0 +1,8 @@
+# Built-in Sonrai Bot: srn:supersonrai::bot/46034e81-3369-4745-8a97-ac6533212bfc
+version: 2020-07-10
+type: Remediation
+title: Create and Assign Role
+cloud: GCP
+operation: EXECUTE_PYTHON_SCRIPT
+authorName: Sonrai Security
+authorEmail: info@sonraisecurity.com
