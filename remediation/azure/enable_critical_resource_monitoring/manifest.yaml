@@ -1,4 +1,4 @@
-# Built-in Sonrai Bot: srn:supersonrai::bot/5dded7d2-16fe-4440-918d-7e2f7f86c6c3
+# Built-in Sonrai Bot: srn:supersonrai::bot/cc0af403-4dd5-4feb-b278-16e98f67683f
 version: 2020-08-25
 type: Remediation
 title: Enable critical resource monitoring (Azure)
